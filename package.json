@@ -10,7 +10,6 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "^0.5.5",
-    "@nuxtjs/tailwindcss": "^6.7.0",
     "@tsconfig/strictest": "^2.0.1",
     "@types/node": "^18",
     "autoprefixer": "^10.4.14",
